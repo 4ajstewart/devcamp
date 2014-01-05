@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 ruby '1.9.3'
+
 gem 'rails', '4.0.1'
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.0'
@@ -17,6 +18,7 @@ gem 'haml-rails'
 gem 'puma'
 gem 'rolify'
 gem 'simple_form'
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]
@@ -31,10 +33,12 @@ group :development do
   gem 'rb-fsevent', :require=>false
   gem 'rb-inotify', :require=>false
 end
+
 group :development, :test do
   gem 'factory_girl_rails'
   gem 'rspec-rails'
 end
+
 group :test do
   gem 'capybara'
   gem 'cucumber-rails', :require=>false

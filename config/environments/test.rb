@@ -35,4 +35,5 @@ Devcamp::Application.configure do
   config.active_support.deprecation = :stderr
 
   config.action_mailer.default_url_options = { :host => "localhost:3000" }
+  I18n.enforce_available_locales = true
 end

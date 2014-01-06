@@ -3,10 +3,10 @@ h1. Devcamp
 This application was generated with the "rails_apps_composer":https://github.com/RailsApps/rails_apps_composer gem provided by the "RailsApps Project":http://railsapps.github.io/.
 
 h2. Current build
-[![Build Status](https://travis-ci.org/devcamp/devcamp.png)](https://travis-ci.org/devcamp/devcamp)
-[![Coverage Status](https://coveralls.io/repos/devcamp/devcamp/badge.png)](https://coveralls.io/r/devcamp/devcamp)
-[![Dependency Status](https://gemnasium.com/devcamp/devcamp.png)](https://gemnasium.com/devcamp/devcamp)
-[![Code Climate](https://codeclimate.com/github/devcamp/devcamp.png)](https://codeclimate.com/github/devcamp/devcamp)
+!https://travis-ci.org/devcamp/devcamp.png!:https://travis-ci.org/devcamp/devcamp
+!https://coveralls.io/repos/devcamp/devcamp/badge.png!:https://coveralls.io/r/devcamp/devcamp
+!https://gemnasium.com/devcamp/devcamp.png!:https://gemnasium.com/devcamp/devcamp
+!https://codeclimate.com/github/devcamp/devcamp.png!:https://codeclimate.com/github/devcamp/devcamp
 
 h2. Diagnostics
 
